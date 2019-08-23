@@ -830,4 +830,5 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 * [Husseinhewehii's Solution](https://github.com/Husseinhewehii/rock_paper_scissors) - [View in Browser](https://husseinhewehii.github.io/Rock_Paper_Scissors/)
 - [Kezzy007's Solution](https://github.com/kezzy007/rock-paper-scissors/) - [View in Browser](https://kezzy007.github.io/rock-paper-scissors-game/)
 - [Joe's Console Solution](https://github.com/JoeVinten/rock-paper-scissors)
+- [ejwheelock's Solution](https://github.com/ejwheelock/rock-paper-scissors-js) - [View in Browser](https://ejwheelock.github.io/rock-paper-scissors-js/)
 </details>
